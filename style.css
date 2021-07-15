@@ -15,11 +15,11 @@ body{
     height: 70%;
     margin:0 auto;
     text-align: center;
-    border:2px solid #069;
+    border:2px solid rgb(71, 145, 182);
     margin-top:50px;
 }
 h1{
-    background: #069;
+    background: rgb(71, 145, 182);
 }
 input[type="submit"]{
     cursor: pointer;
